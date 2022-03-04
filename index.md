@@ -1,4 +1,4 @@
-## Welcome to ___
+## Oxford Responsible Tech Alumni
 
 [Who we are](./about-us.md)
 

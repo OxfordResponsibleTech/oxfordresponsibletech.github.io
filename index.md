@@ -1,4 +1,4 @@
-## [Oxford Responsible Tech Alumni](./index.md)
+## Oxford Responsible Tech Alumni
 
 [Who we are](./about-us.md)
 

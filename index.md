@@ -1,3 +1,5 @@
+![description for visually impaired users](./docs/assets/test_img.jpg)
+
 ## Oxford Responsible Tech Alumni
 
 [Who we are](./about-us.md)

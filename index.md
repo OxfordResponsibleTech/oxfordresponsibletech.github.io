@@ -47,23 +47,27 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
+<div id="contact">
+    <h2>Contact Us</h2>
+    <!-- (Formspree) modify this form HTML and place wherever you want your form -->
+    <form
+      action="https://formspree.io/f/xqkndwon"
+      method="POST">
+      <label>
+        Your email:
+        <input type="email" name="email" placeholder="Your email" required>
+      </label>
+      <label>
+        Your message:
+        <textarea name="message" placeholder="Enter your message" required></textarea>
+      </label>
+      <!-- your other form fields go here -->
+      <button type="submit">Send</button>
+    </form>
+</div>
 
-<!-- (Formspree) modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xqkndwon"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+
+
 
 
 <!--suppress github message-->

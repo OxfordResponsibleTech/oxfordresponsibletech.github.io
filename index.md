@@ -48,20 +48,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <html>
 <div id="contact">
-    <h2>Contact Us</h2>
+    <h2>Contact Us 12p</h2>
     <div id="contact-form">
             <!-- (Formspree) modify this form HTML and place wherever you want your form -->
             <form
               action="https://formspree.io/f/xqkndwon"
               method="POST">
-              <label>
-                Your email:
+              
                 <input type="email" name="email" placeholder="Your email" required>
-              </label>
-              <label>
-                Your message:
+             
                 <textarea name="message" placeholder="Enter your message" required></textarea>
-              </label>
+              
               <!-- your other form fields go here -->
               <button type="submit">Send</button>
             </form>

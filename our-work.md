@@ -1,10 +1,18 @@
 # Our Work
 
 ## What we do
-We are an alumni group for University of Oxford graduates that are passionate about enabling a more responsible technology and innovation landscape. Breaking down silos, we are a diverse community of computer scientists, economists, ethicists, philosophers, lawyers, and sociologists (to name a few!) working across the public, private, and not-for-profit sectors in different countries around the world. Founded in March 2022, we aim to foster a multidisciplinary dialogue on technology topics, as well as develop a network of experts that can work together to irrigate ethical decision-making around the globe. 
+We provide a space for alumni to stay connected to Oxford and their university colleagues, whilst opening up opportunities to forge new connections and keep up to date on key developments in the field of responsible technology. 
 
-You can find us on LinkedIn and Twitter. Follow us to stay up to date on news, events, and programming.
+Our key activities include organizing: 
+- Speaker series, forums, and roundtables on technology related topics
+- Themed networking events
+- Signposting to crowdsourced resources on responsible technology
+- Mentorship programmes
 
+We are also committed to providing opportunities for members to contribute to the field of responsible technology, such as participating in campaigns to raise awareness on social and/or environmental issues related to technology and running fundraisers to support responsible technology-related research at Oxford through bursaries, volunteer opportunities, and work placements.
+
+## Suggestions welcome.
+Have an idea for an event or campaign that you’d like to see us run? Fill out the form below and we’ll do what we can to make it happen.
 
 
 

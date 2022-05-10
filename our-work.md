@@ -14,7 +14,7 @@ We are also committed to providing opportunities for members to contribute to th
 ## Suggestions welcome.
 Have an idea for an event or campaign that you’d like to see us run? Fill out the form below and we’ll do what we can to make it happen.
 
-`
+
 <div id="contact">
 <!--     <h2>Contact Us</h2> -->
     <div id="contact-form">
@@ -32,7 +32,7 @@ Have an idea for an event or campaign that you’d like to see us run? Fill out 
             </form>
     </div>
 </div>
-`
+
 
 ### [🏠Homepage](./index.md)
 

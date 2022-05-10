@@ -12,7 +12,7 @@ Emmanouil Bougiakiotis is a PhD candidate at the European University Institute o
 
 _Emmanouil graduated from the University of Oxford with a Magister Juris in 2018, where he participated at the Oxford Privacy Information Law and Society Discussion Group. He also holds an LLB from the Democritus University of Thrace._
 
-[LinkedIn](https://www.linkedin.com/in/emmanouil-bougiakiotis-066275103/) \| [Twitter](https://twitter.com/emmboug) \| [Website](http://bougiakiotis.wordpress.com)
+**[LinkedIn](https://www.linkedin.com/in/emmanouil-bougiakiotis-066275103/) \| [Twitter](https://twitter.com/emmboug) \| [Website](http://bougiakiotis.wordpress.com)**
 
 
 
@@ -22,7 +22,7 @@ Mira Pijselman is a digital ethicist, researcher, and technology risk consultant
 
 _Mira graduated from the University of Oxford with an MSc in the Social Science of the Internet in 2022, where her research centered on AI ethics, data ethics, data epistemology, smart urbanism, and digital geography. She also holds an HBA from the University of Toronto in Ethics, Society & Law and Peace, Conflict & Justice._
 
-[LinkedIn](https://www.linkedin.com/in/mirapijselman/) \| [Twitter](https://twitter.com/mirapijselman)
+**[LinkedIn](https://www.linkedin.com/in/mirapijselman/) \| [Twitter](https://twitter.com/mirapijselman)**
 
 
 ## Lori Roussey - Outreach and Partnerships
@@ -30,7 +30,7 @@ Lori Roussey is a lawyer passionate about data protection, cybersecurity, access
 
 _Lori graduated from the University of Oxford with an MSc in the Social Science of the Internet in 2022, where her research centered on Internet economics of monopolistic actors, dual use technology regulation and the impacts of surveillance on human behavior. Her master thesis focussed on the outsourcing of data processing tasks to private actors by administrations in Public Private Partnerships and the loss of accountability and human rights erosion it led to._
 
-[LinkedIn](https://uk.linkedin.com/in/lori-roussey-b288761bb) \| [Website](https//:lori.is)
+**[LinkedIn](https://uk.linkedin.com/in/lori-roussey-b288761bb) \| [Website](https//:lori.is)**
 
 
 ## Jianlong Zhu - Digital Operations
@@ -38,7 +38,7 @@ Jianlong Zhu is a data scientist, social scientist, and digital ethics enthusias
 
 _Jianlong graduated from the University of Oxford with an MSc in Social Data Science in 2022, where he completed a thesis on the emotiveness of online misinformation. He also holds a BA from Sarah Lawrence College, where he studied diverse topics ranging from mathematics and computer science to politics and international law._
 
-[LinkedIn](https://www.linkedin.com/in/jianlong-zhu/)
+**[LinkedIn](https://www.linkedin.com/in/jianlong-zhu/)**
 
 
 

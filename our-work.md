@@ -14,6 +14,23 @@ We are also committed to providing opportunities for members to contribute to th
 ## Suggestions welcome.
 Have an idea for an event or campaign that you’d like to see us run? Fill out the form below and we’ll do what we can to make it happen.
 
+<div id="contact">
+    <h2>Contact Us 13p</h2>
+    <div id="contact-form">
+            <!-- (Formspree) modify this form HTML and place wherever you want your form -->
+            <form
+              action="https://formspree.io/f/xqkndwon"
+              method="POST">
+              
+              <input type="email" name="email" placeholder="Your email" required>
+              <br>
+              <textarea name="message" placeholder="Enter your message" required></textarea>
+              <br>
+              <!-- your other form fields go here -->
+              <button type="submit">Send</button>
+            </form>
+    </div>
+</div>
 
 
 ### [🏠Homepage](./index.md)

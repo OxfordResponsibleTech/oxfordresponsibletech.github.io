@@ -15,7 +15,7 @@ We are also committed to providing opportunities for members to contribute to th
 Have an idea for an event or campaign that you’d like to see us run? Fill out the form below and we’ll do what we can to make it happen.
 
 <div id="contact">
-    <h2>Contact Us 13p</h2>
+<!--     <h2>Contact Us 13p</h2> -->
     <div id="contact-form">
             <!-- (Formspree) modify this form HTML and place wherever you want your form -->
             <form

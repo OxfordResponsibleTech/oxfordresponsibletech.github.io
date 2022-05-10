@@ -4,6 +4,8 @@
 
 [Who we are](./about-us.md)
 
+[Who we are](./our-work.md)
+
 Need to [contact someone](./contact.md) in the committee?
 
 

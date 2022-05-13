@@ -2,7 +2,7 @@
 
 ## Oxford Responsible Tech Alumni
 
-## [Who we are](./about-us.md) \| [Our work](./our-work.md)
+## **[Who we are](./about-us.md) \| [Our work](./our-work.md)**
 
 
 

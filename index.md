@@ -1,8 +1,11 @@
 <div align="center" >
-[![description for visually impaired users](./docs/assets/test_img.jpg)]
+![description for visually impaired users](https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg)
 </div>
 
-<!-- ## Oxford Responsible Tech Alumni -->
+https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg
+
+<!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
+
 ### **[🏠](./index.md) \| [Who we are](./about-us.md) \| [Our work](./our-work.md)**
 
 

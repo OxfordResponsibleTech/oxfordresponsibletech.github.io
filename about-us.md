@@ -1,3 +1,5 @@
+### **[🏠](./index.md) \| [Who we are](./about-us.md) \| [Our work](./our-work.md)**
+
 # About us
 
 ## Who we are
@@ -45,7 +47,7 @@ _Jianlong graduated from the University of Oxford with an MSc in Social Data Sci
 
 
 
-### [🏠Homepage](./index.md)
+<!-- ### [🏠Homepage](./index.md) -->
 
 
 

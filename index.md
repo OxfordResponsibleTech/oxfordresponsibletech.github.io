@@ -1,8 +1,9 @@
 
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg" alt="image description here" align="center">
+  (replace this with logo?)
 </p>
-(replace this with logo?)
+
 
 <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 

@@ -2,11 +2,8 @@
 
 ## Oxford Responsible Tech Alumni
 
-[Who we are](./about-us.md)
+## [Who we are](./about-us.md) \| [Our work](./our-work.md)
 
-[Our work](./our-work.md)
-
-Need to [contact someone](./contact.md) in the committee?
 
 
 # What we stand for

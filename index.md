@@ -13,7 +13,8 @@
  <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 
 ### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
-<div align="center">centered text  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> 
+
+<div align="center"><a href="./index.md">Home</a> 
 </div>
 
 # What we stand for

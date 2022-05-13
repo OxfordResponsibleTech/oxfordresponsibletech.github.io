@@ -1,5 +1,5 @@
 <div align="center" >
-![description for visually impaired users](https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg)
+[![description for visually impaired users](https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg)]
 </div>
 
 https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg

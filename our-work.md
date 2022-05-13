@@ -1,4 +1,4 @@
-### **[🏠](./index.md) \| [Who we are](./about-us.md) \| [Our work](./our-work.md)**
+### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
 # Our Work
 

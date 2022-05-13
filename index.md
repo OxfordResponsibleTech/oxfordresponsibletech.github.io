@@ -1,6 +1,6 @@
 ![description for visually impaired users](./docs/assets/test_img.jpg)
 
-## Oxford Responsible Tech Alumni
+<!-- ## Oxford Responsible Tech Alumni -->
 ### **[🏠](./index.md) \| [Who we are](./about-us.md) \| [Our work](./our-work.md)**
 
 

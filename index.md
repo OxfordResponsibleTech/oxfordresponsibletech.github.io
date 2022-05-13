@@ -12,8 +12,9 @@
 
  <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 
+<center>
 ### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
-
+</center>
 
 
 # What we stand for

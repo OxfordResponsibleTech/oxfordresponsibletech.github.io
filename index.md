@@ -3,19 +3,14 @@
   <img width="300" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg?raw=true" alt="alternative text here" align="center">
 </div>
 
-
-<!-- 
-<div align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="http://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg" alt="alternative text here" align="center">
-</div> -->
 (place logo here)
 
  <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 
 ### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
-<div align="center"><a href="./index.md">Home</a> 
-</div>
+<!-- <div align="center"><a href="./index.md">Home</a> 
+</div> -->
 
 # What we stand for
 

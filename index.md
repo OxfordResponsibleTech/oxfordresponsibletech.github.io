@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="300" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
+  <img width="500" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
 </div>
 
 

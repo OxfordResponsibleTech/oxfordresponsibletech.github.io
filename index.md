@@ -1,9 +1,8 @@
 
 <div align="center">
-  <img width="300" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/test_img.jpg?raw=true" alt="alternative text here" align="center">
+  <img width="300" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
 </div>
 
-(place logo here)
 
  <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 

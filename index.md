@@ -1,13 +1,15 @@
 
 <div align="center">
   <img width="500" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
-   <a href="./index.md">Home</a> 
 </div>
 
-
- <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
+<div align="center">
+  <a href="./index.md">Home</a> | <a href="./about-us.md">About Us</a> 
+</div>
 
 ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
+
+
 
 <!-- <div align="center"><a href="./index.md">Home</a> 
 </div> -->

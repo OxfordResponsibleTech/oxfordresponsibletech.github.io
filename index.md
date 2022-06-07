@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="./index.md">Home</a> | <a href="./about-us.md">About Us</a> 
+  <a href="./index.html">Home</a> | <a href="./about-us.html">About Us</a> 
 </div>
 
 ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**

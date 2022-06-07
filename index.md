@@ -6,7 +6,7 @@
 
  <!-- ![description for visually impaired users](./docs/assets/test_img.jpg) -->
 
-### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
+### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
 <!-- <div align="center"><a href="./index.md">Home</a> 
 </div> -->

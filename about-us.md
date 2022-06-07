@@ -1,4 +1,8 @@
-## Oxford Responsible Technology Network
+
+<div align="center">
+  <img width="500" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
+</div>
+
 ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
 # About us

@@ -5,16 +5,16 @@
 
 <div align="center">
   <h2>
-    <a href="./index.html">Home</a> | <a href="./about-us.html">About Us</a> | <a href="./our-work.html">Our Work</a>
+    <b>
+      <a href="./index.html">Home</a> | <a href="./about-us.html">About Us</a> | <a href="./our-work.html">Our Work</a>
+    </b>
   </h2>
 </div>
+
 
 ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
 
-
-<!-- <div align="center"><a href="./index.md">Home</a> 
-</div> -->
 
 # What we stand for
 

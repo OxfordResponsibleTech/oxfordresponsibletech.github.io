@@ -3,6 +3,8 @@
   <img width="500" src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/oxrt_logo.png?raw=true" alt="alternative text here" align="center">
 </div>
 
+<br>
+
 <div align="center">
   <h2>
     <b>
@@ -12,7 +14,7 @@
 </div>
 
 
-### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
+<!-- ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)** -->
 
 
 

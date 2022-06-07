@@ -1,5 +1,5 @@
 ## Oxford Responsible Technology Network
-### **[🏠](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
+### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)**
 
 # About us
 

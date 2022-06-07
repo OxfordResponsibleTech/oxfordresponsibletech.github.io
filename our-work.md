@@ -41,7 +41,6 @@ Have an idea for an event or campaign that you’d like to see us run? Fill out 
 </div>
 
 
-### [🏠Homepage](./index.md)
 
 
 

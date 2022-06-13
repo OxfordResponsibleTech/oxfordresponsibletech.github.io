@@ -48,7 +48,7 @@ Lori Roussey is a lawyer passionate about data protection, cybersecurity, access
 
 _Lori graduated from the University of Oxford with an MSc in the Social Science of the Internet in 2022, where her research centered on Internet economics of monopolistic actors, dual use technology regulation and the impacts of surveillance on human behavior. Her master thesis focussed on the outsourcing of data processing tasks to private actors by administrations in Public Private Partnerships and the loss of accountability and human rights erosion it led to._
 
-**[LinkedIn](https://uk.linkedin.com/in/lori-roussey-b288761bb) \| [Website]()**
+**[LinkedIn](https://uk.linkedin.com/in/lori-roussey-b288761bb) \| [Website](https://lori.is/)**
 
 
 ### Jianlong Zhu - Digital Operations

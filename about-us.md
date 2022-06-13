@@ -59,7 +59,7 @@ _Jianlong graduated from the University of Oxford with an MSc in Social Data Sci
 **[LinkedIn](https://www.linkedin.com/in/jianlong-zhu/)**
 
 
-### Aikaterini Antoniou 
+### Aikaterini Antoniou - Bursar
 Aikaterini Antoniou is a DPhil candidate in Law at the University of Oxford. Her interests include EU law, administrative law, human rights, privacy and confidentiality. The focus of her doctoral thesis is on taxpayers’ procedural rights and tax authorities’ accountability in the context of Exchange of Tax Information. She convenes the EU Law Discussion Group at Oxford. She joined the founding committee of the Responsible Technology Alumni Network because she wants to bring together fellow alumni also interested in building a ‘responsible technology’ future.
 
 _Aikaterini graduated from the University of Oxford with a Magister Juris in 2018. She also holds an LLM in EU law and an LLB from the National and Kapodistrian University of Athens._

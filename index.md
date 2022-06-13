@@ -30,7 +30,7 @@ The need to pay closer attention to the social, ethical, legal, and environmenta
 This alumni group is not solely for computer scientists, technologists, lawyers, or ethicists - it is for everyone and anyone engaged in work that is focused on enabling a technology sector that is aligned with the needs of society and the planet. We believe strongly in breaking down disciplinary silos in these efforts, as diverse perspectives are required to develop thoughtful, holistic, and relevant contributions to this space, whether through research, product development, advisory services, or regulations.
 
 ## We look forward to welcoming you as a member! 
-### **[Sign Up](https://forms.office.com/Pages/ResponsePage.aspx?id=7jT00zxkn0CUqm2y8jVFzuFrIMhW5OZHp-YKqn5RXzdUM0RaSkIzSEdNNVBWRElIV1hEMFpVRzZIWS4u)**
+### **[Sign Up](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__k4Lo1pUQ0NUUzBYWUpUWFI4WDRDME5WVlRJT0hFTi4u)**
 
 
 

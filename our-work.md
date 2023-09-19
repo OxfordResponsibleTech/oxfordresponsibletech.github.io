@@ -7,13 +7,11 @@
 <div align="center">
   <h2>
     <b>
-      <a href="./index.html">Home</a> | <a href="./about-us.html">About Us</a> | <a href="./our-work.html">Our Work</a>
+      <a href="./index.html">Home</a> | <a href="./about-us.html">About Us</a> | <a href="./our-work.html">Our Work</a> | <a href="./get-involved.html">Get Involved</a>
     </b>
   </h2>
 </div>
 
-
-<!-- ### **[Home](./index.md) \| [About Us](./about-us.md) \| [Our Work](./our-work.md)** -->
 
 
 # Our Work

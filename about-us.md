@@ -51,7 +51,7 @@ _Mira graduated from the University of Oxford with an MSc in the Social Science 
 
 ### Lori Roussey - Outreach and Partnerships
 <p align="center">
-  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Lori.JPG?raw=true" height="272" alt="Lori Roussey">
+  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Lori.JPG?raw=true"  alt="Lori Roussey">
 </p>
 Lori Roussey is a lawyer passionate about data protection, cybersecurity, access to information and effective access to justice rights. As an activist she is involved in strategic litigation projects to prevent undemocratically agreed state and corporate surveillance and lock in. She was for instance involved with a 2021 ruling of the highest EU court that required states to inform individuals who have been subject to secret intelligence or police surveillance once they are no longer perceived as a threat, a core safeguard demanded by digital rights activists for decades. In her career Lori advises on humanitarian and national security data rights compliance. She joined the founding of the Responsible Technology Alumni Network to help set up a beacon in the night for fellow students looking to dissociate the digital economy with a society where more comfort comes at the price of our right to intimacy and intellectual freedom.
 

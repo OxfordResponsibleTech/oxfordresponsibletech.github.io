@@ -19,15 +19,16 @@
 ## Shape the Future of Our Alumni Network
 The Responsible Technology Oxford Alumni Network is more than just a group; it's a vibrant community built on the foundation of shared experiences, memories, and aspirations. We believe in the power of collaboration, and that's where you come in!
 
-Why Volunteer?
-- Reconnect: Engage with old friends and make new ones.
-- Give Back: Play a pivotal role in shaping the future direction and growth of our network.
-- Develop Skills: Enhance your skill set.
+_Why Volunteer?_
+- __Reconnect__: Engage with old friends and make new ones.
+- __Give Back__: Play a pivotal role in shaping the future direction and growth of our network.
+- __Develop Skills__: Enhance your skill set.
 
 ## Current Volunteer Opportunities:
-Social Media Enthusiasts
+__Social Media Enthusiasts__
 - LinkedIn & Twitter Managers: Help us grow our online presence by curating content, driving engagement, and increasing our followers on LinkedIn and Twitter. If you've got a knack for social media and are passionate about keeping our alumni connected, we want to hear from you!
-Community Manager for Discord
+
+__Community Manager for Discord__
 - Manage our Discord community, drive engagement, ensure that discussions are lively and respectful, and help moderate any issues that arise. If you love fostering a sense of belonging and ensuring everyone's voice is heard, this is the role for you!
 
 If you’re an alumni member or current Oxford student interested in volunteering with our network, fill the form below indicating the role that you’re keen to fill and your availability and we’ll get back to you. 

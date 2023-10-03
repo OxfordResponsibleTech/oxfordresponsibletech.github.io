@@ -32,6 +32,23 @@ Community Manager for Discord
 
 If you’re an alumni member or current Oxford student interested in volunteering with our network, fill the form below indicating the role that you’re keen to fill and your availability and we’ll get back to you. 
 
+<div id="contact">
+<!--     <h2>Contact Us</h2> -->
+    <div id="contact-form">
+            <!-- (Formspree) modify this form HTML and place wherever you want your form -->
+            <form
+              action="https://formspree.io/f/xqkndwon"
+              method="POST">
+              
+              <input type="email" name="email" placeholder="Your email" required>
+              <br>
+              <textarea name="message" placeholder="Enter your message" required></textarea>
+              <br>
+              <!-- your other form fields go here -->
+              <button type="submit">Send</button>
+            </form>
+    </div>
+</div>
 
 
 

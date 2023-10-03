@@ -31,7 +31,7 @@ __Social Media Enthusiasts__
 __Community Manager for Discord__
 - Manage our Discord community, drive engagement, ensure that discussions are lively and respectful, and help moderate any issues that arise. If you love fostering a sense of belonging and ensuring everyone's voice is heard, this is the role for you!
 
-If you’re an alumni member or current Oxford student interested in volunteering with our network, fill the form below indicating the role that you’re keen to fill and your availability and we’ll get back to you. 
+__If you’re an alumni member or current Oxford student interested in volunteering with our network, fill the form below indicating the role that you’re keen to fill and your availability and we’ll get back to you.__
 
 <div id="contact">
 <!--     <h2>Contact Us</h2> -->

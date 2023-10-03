@@ -27,7 +27,7 @@ You can find us on LinkedIn and Twitter. Follow us to stay up to date on news, e
 ## Our team
 ### Emmanouil Bougiakiotis - President
 <p align="center">
-  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Emmanouil.jpg?raw=true" width="200" height="200" alt="Emmanouil Bougiakiotis">
+  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Emmanouil.jpg?raw=true" height="250" alt="Emmanouil Bougiakiotis">
 </p>
 Emmanouil Bougiakiotis is a PhD candidate at the European University Institute on collective data governance. Having worked in the regulatory sector, Emmanouil is a lawyer and scholar working in public law, human rights, and privacy. He has published research on renowned international journals on privacy and data protection and he actively participates in academic and other fora on various technological issues. He is a strong believer in interdisciplinary research on technological issues and he is looking forward to the opportunity to bring closer Oxonians across the globe working on technology and related subjects. 
 
@@ -62,7 +62,7 @@ _Lori graduated from the University of Oxford with an MSc in the Social Science 
 
 ### Jianlong Zhu - Digital Operations
 <p align="center">
-  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Jianlong.JPG?raw=true" width="200" height="200" alt="Jianlong Zhu">
+  <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Jianlong.JPG?raw=true" height="250" alt="Jianlong Zhu">
 </p>
 Jianlong Zhu is a data scientist, social scientist, and digital ethics enthusiast. He joined the founding committee of the Responsible Technology Alumni Network to connect fellow alumni who are passionate about harnessing the power of digital technologies for social good, and looks forward to building and supporting a community for all Oxonians interested in shaping the future of technology and society.
 

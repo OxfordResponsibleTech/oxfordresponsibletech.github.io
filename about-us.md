@@ -21,7 +21,7 @@
 ## Who we are
 We are an alumni group for University of Oxford graduates that are passionate about enabling a more responsible technology and innovation landscape. Breaking down silos, we are a diverse community of computer scientists, economists, ethicists, philosophers, lawyers, and sociologists (to name a few!) working across the public, private, and not-for-profit sectors in different countries around the world. Founded in March 2022, we aim to foster a multidisciplinary dialogue on technology topics, as well as develop a network of experts that can work together to irrigate ethical decision-making around the globe. 
 
-You can find us on [LinkedIn](https://www.linkedin.com/company/responsible-technology-university-of-oxford-alumni-network/) and Twitter. Follow us to stay up to date on news, events, and programming.
+You can find us on [LinkedIn](https://www.linkedin.com/company/responsible-technology-university-of-oxford-alumni-network/) and [Twitter](https://twitter.com/restechoxford). Follow us to stay up to date on news, events, and programming.
 
 
 ## Our team

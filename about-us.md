@@ -64,9 +64,9 @@ _Lori graduated from the University of Oxford with an MSc in the Social Science 
 <p align="center">
   <img src="https://github.com/OxfordResponsibleTech/oxfordresponsibletech.github.io/blob/main/docs/assets/Jianlong.jpg?raw=true" height="250" alt="Jianlong Zhu">
 </p>
-Jianlong Zhu is a data scientist, social scientist, and digital ethics enthusiast. He joined the founding committee of the Responsible Technology Alumni Network to connect fellow alumni who are passionate about harnessing the power of digital technologies for social good, and looks forward to building and supporting a community for all Oxonians interested in shaping the future of technology and society.
+Jianlong Zhu is a PhD candidate at Saarland University working on the application of AI in civic education. He joined the founding committee of the Responsible Technology Alumni Network to connect fellow alumni who are passionate about harnessing the power of digital technologies for social good, and looks forward to building and supporting a community for all Oxonians interested in shaping the future of technology and society.
 
-_Jianlong graduated from the University of Oxford with an MSc in Social Data Science in 2022, where he completed a thesis on the emotiveness of online misinformation. He also holds a BA from Sarah Lawrence College, where he studied diverse topics ranging from mathematics and computer science to politics and international law._
+_Jianlong graduated from the University of Oxford with an MSc in Social Data Science in 2022, where he completed a thesis on the emotiveness of online misinformation. He also holds a BA in Liberal Arts from Sarah Lawrence College._
 
 **[LinkedIn](https://www.linkedin.com/in/jianlong-zhu/)**
 
